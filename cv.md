@@ -5,6 +5,12 @@
 
 
 - gm.zyvy@gmail.com - 
+## __Образование__
+Белорусский государственный университет, физический факультет, физик
+[RS School - front end developer](https://app.rs.school/certificate/6t3nadxx)
+[Coursera/Meta - React basics](https://www.coursera.org/account/accomplishments/verify/3VKDA6W9VLNR)
+[Coursera/Meta - Introduction to Back-End Development](https://coursera.org/share/708fddc55f0738e778eca38450a77470)
+[Coursera/IBM - IBM Data Analyst Specialization](https://coursera.org/share/f4f5fc375faed9a1d178443102df3720)
  
 ## __Опыт реализации проектов__
 ### Программирование
