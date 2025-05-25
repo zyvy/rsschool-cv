@@ -1,39 +1,23 @@
-![avatar](avatar.jpg) 
-
-
 # Vitali Zabairachny
 
 
-## _junior data analyst, sales and project manager_
+## _junior programmer, data analyst_
 
 
-- email@email.com - [linkedin.com](https://linkedin.com) - +375290000000 -
+- gm.zyvy@gmail.com - 
  
-### ABOUT ME: 
-Junior daya analyst without relevant experience. Finished some Coursera courses. I know SQL, Python, R, Excel, Google Cloud and Powerpoint.
-Advanced PC user, completed courses on analytics and Google cloud services, I know basic network architecture, I can work in
-Linux, able to set up a server and assemble a computer, create or run a docker container, I am fond of programming and know
-Python and SQL. I love to learn new things, and always try to improve my skills
-I am convinced that combining and applying these skills is what actually makes me valuable both as a manager and as a team
-player.
- 
-## __WORK EXPERIENCE__
-### Project manager
-### Worst Company Ever LLC
-2018-
-* Sales and project management
-* Build and maintain strong relationships with key customers, partners, stakeholders
-* Identify and develop new business opportunities
-* Market analysis, participation in tenders and negotiations
-* Sales and finance planning
-* Working with debit loans and payments
- 
-### Sales manager
-### Another Worst Company Ever LLC
-2012-2018
-* Sales and project management
-* Build and maintain strong relationships with key customers, partners, stakeholders
-* Identify and develop new business opportunities
-* Market analysis, participation in tenders and negotiations
-* Sales and finance planning
-* Working with debit loans and payments
+## __Опыт реализации проектов__
+### Программирование
+1. Онлайн [RPG игра](https://zyvy.github.io/cave_rpg/) на JS.
+2. Проект парсинга на Python вакансий hh по ключевым словам, анализа, визуализации с помощью фреймворка D3.js и создания [онлайн презентации](https://rolling-scopes-school.github.io/zyvy-JSFE2023Q4/rs-presentation/) с помощью фреймворка Reveal.js
+3. Пример [адаптивной верстки](https://rolling-scopes-school.github.io/zyvy-JSFE2023Q4/coffee-house/) с самописным слайдером на js.
+4. Игра на Typescript - [ассинхронные гонки](https://rolling-scopes-school.github.io/zyvy-JSFE2023Q4/Async-race/) для изучения основ ассинхронного программирования и взаимодействия с API сервера (требуется запуск [локального сервера](https://github.com/mikhama/async-race-api))
+5. [Игра для изучения английского] Typescript, модульная архитектура(https://rolling-scopes-school.github.io/zyvy-JSFE2023Q4/RSS-Puzzle/).
+6. [Игра Палач на английском](https://rolling-scopes-school.github.io/zyvy-JSFE2023Q4/) vanilla js.
+7. Большой учебный проект - [интернет магазин](https://old-ecommerce-shop.netlify.app/) на React на базе API commercetools. Был в качестве тимлида, организовывал работу команды из 4 человек, нарезал таски через Trello, организовывал созвоны, делал код ревью, настраивал CI/CD. К сожалению сайт сейчас не работает т.к. истек триальный срок доступа к API commercetools. 
+8. Большой учебный проект - [сайт с железнодорожном расписанием и планированием](https://train-app-slackers.netlify.app/) на Angular. Был в качестве тимлида, организовывал работу команды из 3 человек, нарезал таски через Trello, организовывал созвоны, делал код ревью, настраивал CI/CD. К сожалению проект не был доделан до конца из-за нехватки времени у группы. 
+9. Скрипт парсинга Reddit через web и парсинга Discord через API юзера. Был создан юзер который вступил на нужный сервер, далее отследил запросы сниффингом и сделал парсер на Python. Парсер по расписанию парсит сообщения нескольких определенных юзеров и если обнаруживает новые сообщения постит их в [группе телеграмм](http://t.me/ornarpg_ru). 
+10. Проект парсинга на Python RSS ленты сайта Slickdeals со скидками и в случае обнаружения новых репостинга их в [канал телеграмм](http://t.me/slickdeals_hot)
+11. [Телеграм бот с гороскопами](http://t.me/Zodiacs_bot) на Python. Микросервисная архитектура - парсинг гороскопов реализован отдельным сервисом путем скачивания xml.
+12. Игра [нонограммы](https://zyvy.github.io/nonograms/nonograms/) Vanilla JS
+13. ...
